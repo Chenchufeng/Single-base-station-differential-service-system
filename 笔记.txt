@@ -1,0 +1,2 @@
+npm run serve启动
+npm run build生成部署文件dist
